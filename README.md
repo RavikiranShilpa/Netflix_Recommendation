@@ -1,4 +1,4 @@
-# Netflix Movie Recommendation System
+# Movie Recommendation System
 
 ## Business Problem 
 Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. And while Cinematch is doing pretty well, it can always be made better.
@@ -54,8 +54,6 @@ You need to have installed following softwares and libraries in your machine bef
 * XGBoost - Used for making regression models
 *	Surprise - used for making recommendation system models
 
-## Authors
-*	Gaurav Sharma - Complete work  
 
 ## Acknowledgments
-*	Applied AI Course
+*	AAIC
